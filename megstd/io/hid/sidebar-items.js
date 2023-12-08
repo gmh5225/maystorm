@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DeviceMode","HidReportCollectionType","HidReportItemTag","HidReportItemType","HidReportType","HidReportValue","HidTrailBytes"],"struct":["HidReportGlobalState","HidReportId","HidReportLeadByte","HidReportLocalState","HidReportMainFlag","HidReporteReader","HidUsage","Modifier","MouseButton","MouseReport","Usage","UsagePage"]};

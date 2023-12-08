@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"kernel":[["impl <a class=\"trait\" href=\"megstd/mem/dispose/trait.DisposeRef.html\" title=\"trait megstd::mem::dispose::DisposeRef\">DisposeRef</a> for <a class=\"struct\" href=\"kernel/drivers/usb/xhci/struct.CommandRequestBlock.html\" title=\"struct kernel::drivers::usb::xhci::CommandRequestBlock\">CommandRequestBlock</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

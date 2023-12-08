@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["AllocationError","DeallocationError","MProtect","MemoryMapRequest"],"mod":["alloc","fixedvec","mmio","slab"],"struct":["MemoryManager"]};

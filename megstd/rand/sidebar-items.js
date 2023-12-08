@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["XorShift32","XorShift64"],"trait":["Prng","Rng"]};

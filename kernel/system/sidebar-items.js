@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ProcessorCoreType","ProcessorSystemType"],"struct":["DeviceInfo","ProcessorIndex","System","Version"]};

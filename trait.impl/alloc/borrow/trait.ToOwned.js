@@ -1,0 +1,4 @@
+(function() {var implementors = {
+"meggl":[["impl ToOwned for <a class=\"struct\" href=\"meggl/struct.BitmapRefMut4.html\" title=\"struct meggl::BitmapRefMut4\">BitmapRefMut4</a>&lt;'_&gt;"],["impl ToOwned for <a class=\"struct\" href=\"meggl/struct.BitmapRefMut1.html\" title=\"struct meggl::BitmapRefMut1\">BitmapRefMut1</a>&lt;'_&gt;"],["impl ToOwned for <a class=\"struct\" href=\"meggl/struct.BitmapRefMut32.html\" title=\"struct meggl::BitmapRefMut32\">BitmapRefMut32</a>&lt;'_&gt;"],["impl ToOwned for <a class=\"struct\" href=\"meggl/struct.BitmapRefMut8.html\" title=\"struct meggl::BitmapRefMut8\">BitmapRefMut8</a>&lt;'_&gt;"],["impl ToOwned for <a class=\"struct\" href=\"meggl/struct.BitmapRefMut16.html\" title=\"struct meggl::BitmapRefMut16\">BitmapRefMut16</a>&lt;'_&gt;"]],
+"megstd":[]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

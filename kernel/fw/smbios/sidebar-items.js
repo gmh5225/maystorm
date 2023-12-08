@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["HeaderType","SmBios","SmBiosEntryV1","SmBiosHeader"]};

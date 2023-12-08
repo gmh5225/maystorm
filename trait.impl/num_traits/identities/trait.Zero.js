@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"meggl":[["impl <a class=\"trait\" href=\"meggl/trait.Zero.html\" title=\"trait meggl::Zero\">Zero</a> for <a class=\"struct\" href=\"meggl/struct.Size.html\" title=\"struct meggl::Size\">Size</a>"],["impl <a class=\"trait\" href=\"meggl/trait.Zero.html\" title=\"trait meggl::Zero\">Zero</a> for <a class=\"struct\" href=\"meggl/struct.Movement.html\" title=\"struct meggl::Movement\">Movement</a>"],["impl <a class=\"trait\" href=\"meggl/trait.Zero.html\" title=\"trait meggl::Zero\">Zero</a> for <a class=\"struct\" href=\"meggl/struct.EdgeInsets.html\" title=\"struct meggl::EdgeInsets\">EdgeInsets</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

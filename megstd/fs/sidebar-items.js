@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["FileType"],"fn":["canonicalize","read_dir"],"struct":["DirEntry","File","Metadata","OpenOptions","Permissions","ReadDir"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["GameInputButtonType","HidBitStreamError","ParsedReportEntry"],"struct":["GameInput","GameInputHandle","GameInputManager","HidBitStreamReader","HidBitStreamWriter","HidManager","HidParsedReport","KeyEvent","KeyEventFlags","KeyReportRaw","KeyboardState","MouseEvent","MouseState","ParsedReportApplication","ParsedReportMainItem"]};

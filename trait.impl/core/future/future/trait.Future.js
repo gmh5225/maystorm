@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"kernel":[["impl Future for <a class=\"struct\" href=\"kernel/sync/semaphore/struct.AsyncSemaphoreObserver.html\" title=\"struct kernel::sync::semaphore::AsyncSemaphoreObserver\">AsyncSemaphoreObserver</a>"],["impl&lt;T&gt; Future for <a class=\"struct\" href=\"kernel/sync/semaphore/struct.AsyncSemaphoreResultObserver.html\" title=\"struct kernel::sync::semaphore::AsyncSemaphoreResultObserver\">AsyncSemaphoreResultObserver</a>&lt;T&gt;"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

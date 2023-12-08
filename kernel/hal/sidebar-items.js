@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["Hal","InterruptGuard","NonNullPhysicalAddress","PhysicalAddress","Spinlock"],"trait":["HalCpu","HalPci","HalSpinLoopWait","HalSpinlock","HalSync","HalTrait"],"type":["NonZeroPhysicalAddressRepr","PhysicalAddressRepr"]};

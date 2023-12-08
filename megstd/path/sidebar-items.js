@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Component","Prefix"],"struct":["Ancestors","Components","Path","PathBuf","PrefixComponent"]};

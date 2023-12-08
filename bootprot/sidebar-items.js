@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["BootMemoryType","ColorMode","PlatformType"],"struct":["BootFlags","BootInfo","BootMemoryMapDescriptor"]};

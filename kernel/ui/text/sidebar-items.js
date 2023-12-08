@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["LineBreakMode","TextAlignment","VerticalAlignment"],"struct":["AttributeSet","AttributedString","LineStatus","TextProcessing"]};

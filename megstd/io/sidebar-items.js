@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ErrorKind"],"mod":["hid"],"struct":["Custom","Error"],"trait":["Read","Write"],"type":["Result"]};

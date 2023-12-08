@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"megstd":[["impl !Sized for <a class=\"struct\" href=\"megstd/osstr/struct.OsStr.html\" title=\"struct megstd::osstr::OsStr\">OsStr</a>",1,["megstd::osstr::OsStr"]],["impl !Sized for <a class=\"struct\" href=\"megstd/osstr/struct.Slice.html\" title=\"struct megstd::osstr::Slice\">Slice</a>",1,["megstd::osstr::Slice"]],["impl !Sized for <a class=\"struct\" href=\"megstd/path/struct.Path.html\" title=\"struct megstd::path::Path\">Path</a>",1,["megstd::path::Path"]]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
